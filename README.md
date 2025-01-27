@@ -10,7 +10,7 @@ Proficient in following skills:
 - Excel
 - Tableau
 
-Passionate about leveraging data-driven technologies to solve real-world business challenges and uncover opportunities for growth. Always eager to explore new advancements in analytics and deliver impactful solutions
+Passionate about leveraging data-driven technologies to solve real-world business challenges and uncover opportunities for growth. Always eager to explore new advancements in analytics and deliver impactful solutions.
 
 <!--
 **M-Amulya/M-Amulya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
